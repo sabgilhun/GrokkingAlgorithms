@@ -16,5 +16,5 @@ fun findKeyWithRecursion(box: Box): Box {
 
 fun main(args: Array<String>) {
     val testSet = generateTestSet()
-    println("expected: 7, actual: ${findKeyWithIteration(testSet).id}")
+    println("expected: 7, actual: ${findKeyWithRecursion(testSet).id}")
 }
