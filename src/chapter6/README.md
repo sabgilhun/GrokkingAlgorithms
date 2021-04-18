@@ -2,7 +2,7 @@
 ## 그래프(Graph)란?
 `그래프(Graph)`란 연결의 집합을 모형화한 자료구조이다. 그래프는 `정점(Node)`, `간선(Edge)`로 이뤄지며 이를 통해 각 정점의 관계를 표현한다.
 
-![graph image](./img/img_graph.gif)
+![graph image](img/graph.png)
 
 ## 너비 우선 탐색(Breath-First Search, BFS)
 너비 우선 탐색 알고리즘은 그래프를 대상으로 하는 알고리즘이다. 이 알고리즘은 어떠한 그래프에 대해 아래와 같은 문제를 푸는데에 해답을 찾을 수 있다.
